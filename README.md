@@ -36,6 +36,8 @@ People of age group 65+ not only suffer from physical distress but also mental d
 For further implimentation of this Application we can use various Machine learning Algorithm in future
 
 ## Screenshots:
+![Untitled design](https://github.com/AkhilWarke/Kratin_Assigment_Akhilesh/assets/139999018/236b153b-8251-4b52-bc1b-71cabbd6d797)
+
 
    
 
