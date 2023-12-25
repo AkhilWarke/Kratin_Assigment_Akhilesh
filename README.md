@@ -20,11 +20,14 @@ People of age group 65+ not only suffer from physical distress but also mental d
                   1) Frontend(REACTS)
 		  2) Backend(SPRINGBOOT)
 		  3) Java
-		  4) HTML
+		  4) HTML 
 		  5) CSS
 		  6) JAVASCRIPT
 		  7) REACTS
 		  8) SPRINGBOOT
+    
+# secrect Ingrident   
+For further implimentation of this Application we can use various Machine learning Algorithm in future
 
    
 
