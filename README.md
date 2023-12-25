@@ -33,7 +33,9 @@ People of age group 65+ not only suffer from physical distress but also mental d
 		  8) SPRINGBOOT
     
 #  💫 secrect Ingrident   
-  For further implimentation of this Application we can use various Machine learning Algorithm in future
+ ## For further implimentation of this Application we can use various Machine learning Algorithm in future
+ ## Here I created API's in Backend
+ ## Make frontend by both using Reacts and Javascripts
 
 ## 📸🖥Screenshots:
 # Homepage
@@ -45,7 +47,7 @@ People of age group 65+ not only suffer from physical distress but also mental d
 # Medical Details
 ![Untitled design (2)](https://github.com/AkhilWarke/Kratin_Assigment_Akhilesh/assets/139999018/a5c27f05-34d0-4d0e-812a-78f068e4cba1)
 
-# Some Extra Tips from Myside to Sunita Sharma
+# 🔥 Some Extra Tips from Myside to Sunita Sharma
 ## Balanced Diet
 ## Nutrient Supplements
 ## Regular Exercise.
@@ -57,6 +59,10 @@ People of age group 65+ not only suffer from physical distress but also mental d
 ## Vaccinations
 ## Social Engagement
 
+# Conclusion :-
+so, Here is the One unique solution in which we can help for Sunita Sharma for their Better Life
+
+#### Thank You
 
 
 
