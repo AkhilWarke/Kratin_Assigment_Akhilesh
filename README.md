@@ -4,10 +4,10 @@ Kratin LLC Assignment Submission
 ## 🖥️⌨️ Problem Statement: How can you help Sunita Sharma (65+ years old) to live a healthier and better life? 
 Identify one use case for elderly care (for the age group 65+) and create a working prototype to demonstrate your idea using technology known to you.
 
-#  My Solution 
+#  🔥 My Solution 
 # Android Application :- Health Maintainer 📲
 
-# Why this application is unique
+# 🤩 Why this application is unique
 1) Talking about uniquiness of this applications It can show pill reminder also
 2) We can already signup for upcoming event
 3) show Medical details in the form of Tables
@@ -32,7 +32,7 @@ People of age group 65+ not only suffer from physical distress but also mental d
 		  7) REACTS
 		  8) SPRINGBOOT
     
-# secrect Ingrident   
+# H 💫 secrect Ingrident   
 For further implimentation of this Application we can use various Machine learning Algorithm in future
 
 ## 📸🖥Screenshots:
