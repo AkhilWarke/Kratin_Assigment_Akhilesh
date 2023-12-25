@@ -40,6 +40,7 @@ For further implimentation of this Application we can use various Machine learni
 ![Untitled design](https://github.com/AkhilWarke/Kratin_Assigment_Akhilesh/assets/139999018/236b153b-8251-4b52-bc1b-71cabbd6d797)
 
 # LoginPage
+![Untitled design (1)](https://github.com/AkhilWarke/Kratin_Assigment_Akhilesh/assets/139999018/b68637f4-50e3-4575-9bdc-b2bd2e28edd3)
 
 
 
