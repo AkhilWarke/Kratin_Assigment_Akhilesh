@@ -1,0 +1,24 @@
+Idea just came in my mind for Sunita sharma (65+ year old lady)
+
+                            Application Name :-  Health Maintainer
+
+I must create a Application which is helpful for sunita sharma
+by using that Application she can : -
+          1) Track her water count on daily basis
+		  2) She can see thier own medical details
+		  3) She can have prior idea about upcoming health event and many more.
+	
+In this assigment I used various Technologies
+          1) Frontend(REACTS)
+		  2) Backend(SPRINGBOOT)
+		  3) Java
+		  4) HTML
+		  5) CSS
+		  6) JAVASCRIPT
+		  7) REACTS
+		  8) SPRINGBOOT
+
+For further implimentation of this Application we can use various Machine learning Algorithm 
+
+
+So , This is Basic Text file just for sharing my Idea
