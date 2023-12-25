@@ -42,6 +42,9 @@ For further implimentation of this Application we can use various Machine learni
 # LoginPage
 ![Untitled design (1)](https://github.com/AkhilWarke/Kratin_Assigment_Akhilesh/assets/139999018/b68637f4-50e3-4575-9bdc-b2bd2e28edd3)
 
+# Medical Details
+![Untitled design (2)](https://github.com/AkhilWarke/Kratin_Assigment_Akhilesh/assets/139999018/a5c27f05-34d0-4d0e-812a-78f068e4cba1)
+
 
 
 
