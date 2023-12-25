@@ -46,16 +46,16 @@ People of age group 65+ not only suffer from physical distress but also mental d
 ![Untitled design (2)](https://github.com/AkhilWarke/Kratin_Assigment_Akhilesh/assets/139999018/a5c27f05-34d0-4d0e-812a-78f068e4cba1)
 
 # Some Extra Tips from Myside to Sunita Sharma
--> Balanced Diet
--> Nutrient Supplements
-Regular Exercise.
-Brain Health
-Regular Health Check-ups
-Sleep Hygiene
-Stress Management
-Regular Health Screenings
-Vaccinations
-Social Engagement
+## Balanced Diet
+## Nutrient Supplements
+## Regular Exercise.
+## Brain Health
+## Regular Health Check-ups
+## Sleep Hygiene
+## Stress Management
+## Regular Health Screenings
+## Vaccinations
+## Social Engagement
 
 
 
